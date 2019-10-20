@@ -14,6 +14,26 @@ Find leaked emails with your passwords.
 
 ## Installation
 
+Installation for Termux
+
+apt update && apt upgrade
+pkg install tor
+y
+tor
+CTRL+Z
+jobs (tor stopped)
+bg (meaning 'backgroung)
+jobs (running tor)
+pkg install python
+y
+pkg install git
+y
+git clone https://github.com/decoxviii/karma ;
+python setup.py install
+
+
+
+
 Install dependencies (Debian/Ubuntu):
 ```
 sudo apt install tor python3 python3-pip
