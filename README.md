@@ -28,7 +28,7 @@ CTRL+Z
 
 jobs (tor stopped)
 
-bg (meaning 'backgroung)
+bg (meaning background)
 
 jobs (running tor)
 
